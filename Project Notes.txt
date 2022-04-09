@@ -1,0 +1,16 @@
+			ME 576 Project
+============================================================================
+Objective:
+- Simulate Battery Aging Process
+
+Key Inputs:
+- Battery Type
+	- Li Ion
+	- Ni-Cad
+	- etc
+- SOC?
+- Ambient Air Temp
+	- Arizona temp[winter = 22c  Spring = 32c  Fall = 35c] Avg = 29.67c
+	- Alaska temp Avg = 7c(average high)-anchorage
+	- Michigan temp Avg = 15c (average high)- dearborn
+	- Florida temp Avg = 22.3c
