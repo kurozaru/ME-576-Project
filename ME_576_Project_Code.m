@@ -22,23 +22,23 @@ sim power_battery_aging_sim_Alaska.slx
 
 % Tesla - baseline
 %open power_battery_aging_sim_TeslaBaseline.slx
-sim power_battery_aging_sim_TeslaBaseline.slx
+sim power_battery_aging_sim_TeslaBaseline2.slx
 
 % Tesla - Arizona
 %open power_battery_aging_sim_TeslaArizona.slx
-sim power_battery_aging_sim_TeslaArizona.slx
+sim power_battery_aging_sim_TeslaArizona2.slx
 
 % Tesla - Alaska
 %open power_battery_aging_sim_TeslaAlaska.slx
-sim power_battery_aging_sim_TeslaAlaska.slx
+sim power_battery_aging_sim_TeslaAlaska2.slx
 
 % Tesla - Michigan
 %open power_battery_aging_sim_TeslaMichigan.slx
-sim power_battery_aging_sim_TeslaMichigan.slx
+sim power_battery_aging_sim_TeslaMichigan2.slx
 
 % Tesla - Florida
 %open power_battery_aging_sim_TeslaFlorida.slx
-sim power_battery_aging_sim_TeslaFlorida.slx
+sim power_battery_aging_sim_TeslaFlorida2.slx
 
 %% Initiate Variables from Sim - initial battery 12.8v, 40Ah, Li-ion
 % Baseline
