@@ -16,8 +16,14 @@ Key Inputs:
 	- Florida temp Avg = 22.3c
 - Battery OEM
 	- TEsla -  https://www.evwest.com/catalog/product_info.php?products_id=463
+		   https://stealthev.com/product/tesla-module/
 		capacity = 232Ah
 		power 5.3Kw
 		Votage/cell = 3.8 (nominal)
 		Max discharge current = 750A (peak)  500A (nominal)
 		cells = 6
+	- Samsung SDI  -  https://pushevs.com/2018/04/05/samsung-sdi-94-ah-battery-cell-full-specifications/
+
+	- Toyota prius battery - https://www.alibaba.com/product-detail/Melasta-Hybrid-Car-Replacement-Battery-7_60774026874.html
+
+	- SK - https://www.geebattery.com/battery/sk-innovation-battery_3-7v-45ah
